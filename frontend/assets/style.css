@@ -1,0 +1,419 @@
+/* SafeCity - Apple-Inspired Dark Theme */
+
+:root {
+    --black: #000000;
+    --dark-gray: #1d1d1f;
+    --medium-gray: #2d2d2f;
+    --light-gray: #86868b;
+    --white: #ffffff;
+    --blue-accent: #0071e3;
+    --red-accent: #ff3b30;
+    --orange-accent: #ff9500;
+    --green-accent: #30d158;
+}
+
+/* Global Styles */
+.stApp {
+    background: linear-gradient(135deg, #000000 0%, #1d1d1f 100%);
+}
+
+/* Main Content Area */
+.main .block-container {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    max-width: 1400px;
+}
+
+/* Headers */
+h1, h2, h3 {
+    color: var(--white) !important;
+    font-weight: 600 !important;
+    letter-spacing: -0.5px !important;
+}
+
+h1 {
+    font-size: 3.5rem !important;
+    line-height: 1.1 !important;
+    margin-bottom: 1rem !important;
+}
+
+h2 {
+    font-size: 2rem !important;
+    margin-top: 2rem !important;
+}
+
+h3 {
+    font-size: 1.5rem !important;
+}
+
+/* Text */
+p, span, div {
+    color: var(--light-gray) !important;
+}
+
+/* Sidebar Styling */
+.css-1d391kg, [data-testid="stSidebar"] {
+    background: var(--dark-gray) !important;
+    border-right: 1px solid var(--medium-gray) !important;
+}
+
+.css-1d391kg .element-container, [data-testid="stSidebar"] .element-container {
+    background: transparent !important;
+}
+
+/* Sidebar Text */
+.css-1d391kg p, .css-1d391kg span, [data-testid="stSidebar"] p, [data-testid="stSidebar"] span {
+    color: var(--white) !important;
+}
+
+/* Buttons - Apple Blue Theme */
+.stButton > button {
+    background: var(--blue-accent) !important;
+    color: var(--white) !important;
+    border: none !important;
+    border-radius: 12px !important;
+    padding: 12px 24px !important;
+    font-weight: 600 !important;
+    font-size: 14px !important;
+    letter-spacing: 0.5px !important;
+    transition: all 0.3s ease !important;
+    width: 100% !important;
+    margin: 8px 0 !important;
+    box-shadow: 0 4px 12px rgba(0, 113, 227, 0.3) !important;
+}
+
+.stButton > button:hover {
+    background: #0077ed !important;
+    transform: translateY(-2px) !important;
+    box-shadow: 0 6px 16px rgba(0, 113, 227, 0.4) !important;
+}
+
+.stButton > button:active {
+    transform: translateY(0) !important;
+}
+
+.stButton > button:disabled {
+    background: var(--medium-gray) !important;
+    color: var(--light-gray) !important;
+    box-shadow: none !important;
+}
+
+/* Tabs */
+.stTabs [data-baseweb="tab-list"] {
+    background: var(--dark-gray) !important;
+    border-radius: 12px !important;
+    padding: 8px !important;
+    gap: 8px !important;
+}
+
+.stTabs [data-baseweb="tab"] {
+    background: transparent !important;
+    border: none !important;
+    color: var(--light-gray) !important;
+    border-radius: 8px !important;
+    padding: 12px 24px !important;
+    font-weight: 500 !important;
+    transition: all 0.3s ease !important;
+}
+
+.stTabs [data-baseweb="tab"]:hover {
+    background: var(--medium-gray) !important;
+    color: var(--white) !important;
+}
+
+.stTabs [aria-selected="true"] {
+    background: var(--blue-accent) !important;
+    color: var(--white) !important;
+    font-weight: 600 !important;
+}
+
+/* Metrics Cards */
+.css-1xarl3l, [data-testid="metric-container"] {
+    background: var(--dark-gray) !important;
+    border: 1px solid var(--medium-gray) !important;
+    border-radius: 16px !important;
+    padding: 20px !important;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3) !important;
+    transition: all 0.3s ease !important;
+}
+
+.css-1xarl3l:hover, [data-testid="metric-container"]:hover {
+    transform: translateY(-4px) !important;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.5) !important;
+    border-color: var(--blue-accent) !important;
+}
+
+[data-testid="stMetricLabel"] {
+    color: var(--light-gray) !important;
+    font-size: 14px !important;
+    font-weight: 500 !important;
+    letter-spacing: 0.5px !important;
+    text-transform: uppercase !important;
+}
+
+[data-testid="stMetricValue"] {
+    color: var(--white) !important;
+    font-size: 32px !important;
+    font-weight: 700 !important;
+}
+
+/* DataFrames */
+.dataframe {
+    background: var(--dark-gray) !important;
+    border: 1px solid var(--medium-gray) !important;
+    border-radius: 12px !important;
+    overflow: hidden !important;
+}
+
+.dataframe thead tr th {
+    background: var(--medium-gray) !important;
+    color: var(--white) !important;
+    font-weight: 600 !important;
+    padding: 16px !important;
+    border: none !important;
+}
+
+.dataframe tbody tr {
+    background: var(--dark-gray) !important;
+    transition: all 0.2s ease !important;
+}
+
+.dataframe tbody tr:hover {
+    background: var(--medium-gray) !important;
+}
+
+.dataframe tbody tr td {
+    color: var(--light-gray) !important;
+    padding: 12px 16px !important;
+    border: none !important;
+    border-bottom: 1px solid var(--medium-gray) !important;
+}
+
+/* Info/Warning/Success/Error Messages */
+.stAlert {
+    border-radius: 12px !important;
+    border: none !important;
+    padding: 16px 20px !important;
+    margin: 12px 0 !important;
+}
+
+[data-baseweb="notification"] {
+    border-radius: 12px !important;
+    background: var(--dark-gray) !important;
+    border: 1px solid var(--medium-gray) !important;
+}
+
+/* Info */
+.stAlert[data-baseweb="notification"] > div:first-child {
+    background: rgba(0, 113, 227, 0.15) !important;
+    border-left: 4px solid var(--blue-accent) !important;
+}
+
+/* Success */
+.stSuccess {
+    background: rgba(48, 209, 88, 0.15) !important;
+    border-left: 4px solid var(--green-accent) !important;
+}
+
+/* Warning */
+.stWarning {
+    background: rgba(255, 149, 0, 0.15) !important;
+    border-left: 4px solid var(--orange-accent) !important;
+}
+
+/* Error */
+.stError {
+    background: rgba(255, 59, 48, 0.15) !important;
+    border-left: 4px solid var(--red-accent) !important;
+}
+
+/* Spinner */
+.stSpinner > div {
+    border-color: var(--blue-accent) !important;
+}
+
+/* Progress Bar */
+.stProgress > div > div {
+    background: var(--blue-accent) !important;
+    border-radius: 8px !important;
+}
+
+/* Expander */
+.streamlit-expanderHeader {
+    background: var(--dark-gray) !important;
+    border: 1px solid var(--medium-gray) !important;
+    border-radius: 12px !important;
+    color: var(--white) !important;
+    font-weight: 600 !important;
+}
+
+.streamlit-expanderContent {
+    background: var(--dark-gray) !important;
+    border: 1px solid var(--medium-gray) !important;
+    border-radius: 0 0 12px 12px !important;
+    border-top: none !important;
+}
+
+/* Column Containers */
+.element-container {
+    transition: all 0.3s ease !important;
+}
+
+/* Charts */
+.js-plotly-plot {
+    border-radius: 12px !important;
+    overflow: hidden !important;
+}
+
+/* Custom Glassmorphism Card */
+.glass-card {
+    background: rgba(29, 29, 31, 0.8) !important;
+    backdrop-filter: blur(20px) !important;
+    border: 1px solid rgba(255, 255, 255, 0.1) !important;
+    border-radius: 20px !important;
+    padding: 24px !important;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4) !important;
+}
+
+/* Scrollbar Styling */
+::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: var(--dark-gray);
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: var(--medium-gray);
+    border-radius: 10px;
+    border: 2px solid var(--dark-gray);
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: var(--light-gray);
+}
+
+/* Map Container */
+.folium-map {
+    border-radius: 16px !important;
+    overflow: hidden !important;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.5) !important;
+    border: 1px solid var(--medium-gray) !important;
+}
+
+/* Input Fields */
+.stTextInput > div > div > input,
+.stNumberInput > div > div > input,
+.stSelectbox > div > div > div {
+    background: var(--medium-gray) !important;
+    color: var(--white) !important;
+    border: 1px solid var(--light-gray) !important;
+    border-radius: 8px !important;
+    padding: 12px !important;
+}
+
+/* Remove Streamlit Branding */
+#MainMenu {visibility: hidden;}
+footer {visibility: hidden;}
+header {visibility: hidden;}
+
+/* Animation Classes */
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(20px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+.fade-in {
+    animation: fadeIn 0.6s ease-out;
+}
+
+/* Priority Badge Styles */
+.priority-badge {
+    display: inline-block;
+    padding: 6px 16px;
+    border-radius: 20px;
+    font-weight: 600;
+    font-size: 12px;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+}
+
+.priority-high {
+    background: rgba(255, 59, 48, 0.2);
+    color: var(--red-accent);
+    border: 1px solid var(--red-accent);
+}
+
+.priority-medium {
+    background: rgba(255, 149, 0, 0.2);
+    color: var(--orange-accent);
+    border: 1px solid var(--orange-accent);
+}
+
+.priority-low {
+    background: rgba(48, 209, 88, 0.2);
+    color: var(--green-accent);
+    border: 1px solid var(--green-accent);
+}
+
+/* Glow Effect */
+.glow {
+    box-shadow: 0 0 20px rgba(0, 113, 227, 0.5) !important;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    h1 {
+        font-size: 2.5rem !important;
+    }
+    
+    .main .block-container {
+        padding-left: 1rem !important;
+        padding-right: 1rem !important;
+    }
+}
+
+/* Loading Spinner */
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+.spinner {
+    border: 3px solid var(--medium-gray);
+    border-top: 3px solid var(--blue-accent);
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    animation: spin 1s linear infinite;
+    margin: 20px auto;
+}
+
+/* Pulse Animation */
+@keyframes pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.6; }
+}
+
+.pulse {
+    animation: pulse 2s ease-in-out infinite;
+}
+
+/* Slide In Animation */
+@keyframes slideInFromLeft {
+    from {
+        transform: translateX(-50px);
+        opacity: 0;
+    }
+    to {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+
+.slide-in {
+    animation: slideInFromLeft 0.5s ease-out;
+}

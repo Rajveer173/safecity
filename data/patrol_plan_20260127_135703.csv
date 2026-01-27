@@ -1,0 +1,249 @@
+zone_id,zone_lat,zone_lng,predicted_risk,risk_score,patrol_priority,total_priority_score,patrol_recommendation,priority_justification,patrol_frequency,target_response_time
+19.06_72.86,19.06,72.86,High,62.994598429631246,Low,131.49729921481563,Standard patrol schedule adequate; High crime risk predicted,Risk level: High; High priority score (131.5),Daily check,< 45 minutes
+19.13_72.86,19.13,72.86,High,62.994598429631246,Low,131.49729921481563,Standard patrol schedule adequate; High crime risk predicted,Risk level: High; High priority score (131.5),Daily check,< 45 minutes
+19.06_72.87,19.06,72.87,High,62.994598429631246,Low,131.49729921481563,Standard patrol schedule adequate; High crime risk predicted,Risk level: High; High priority score (131.5),Daily check,< 45 minutes
+19.150000000000002_72.91,19.150000000000002,72.91,High,62.994598429631246,Low,131.49729921481563,Standard patrol schedule adequate; High crime risk predicted,Risk level: High; High priority score (131.5),Daily check,< 45 minutes
+19.07_72.95,19.07,72.95,High,62.994598429631246,Low,131.49729921481563,Standard patrol schedule adequate; High crime risk predicted,Risk level: High; High priority score (131.5),Daily check,< 45 minutes
+19.080000000000002_72.84,19.080000000000002,72.84,High,62.994598429631246,Low,131.49729921481563,Standard patrol schedule adequate; High crime risk predicted,Risk level: High; High priority score (131.5),Daily check,< 45 minutes
+19.080000000000002_72.92,19.080000000000002,72.92,High,62.994598429631246,Low,131.49729921481563,Standard patrol schedule adequate; High crime risk predicted,Risk level: High; High priority score (131.5),Daily check,< 45 minutes
+19.01_72.83,19.01,72.83,High,62.994598429631246,Low,131.49729921481563,Standard patrol schedule adequate; High crime risk predicted,Risk level: High; High priority score (131.5),Daily check,< 45 minutes
+19.1_72.82000000000001,19.1,72.82000000000001,High,62.994598429631246,Low,131.49729921481563,Standard patrol schedule adequate; High crime risk predicted,Risk level: High; High priority score (131.5),Daily check,< 45 minutes
+19.02_72.87,19.02,72.87,High,62.994598429631246,Low,131.49729921481563,Standard patrol schedule adequate; High crime risk predicted,Risk level: High; High priority score (131.5),Daily check,< 45 minutes
+19.06_72.83,19.06,72.83,High,61.84502725893976,Low,130.92251362946988,Standard patrol schedule adequate; High crime risk predicted,Risk level: High; High priority score (130.9),Daily check,< 45 minutes
+19.09_72.92,19.09,72.92,High,60.09375236620189,Low,130.04687618310095,Standard patrol schedule adequate; High crime risk predicted,Risk level: High; High priority score (130.0),Daily check,< 45 minutes
+19.04_72.87,19.04,72.87,High,60.09375236620189,Low,130.04687618310095,Standard patrol schedule adequate; High crime risk predicted,Risk level: High; High priority score (130.0),Daily check,< 45 minutes
+19.04_72.85000000000001,19.04,72.85000000000001,High,59.27037936782891,Low,129.63518968391446,Standard patrol schedule adequate; High crime risk predicted,Risk level: High; High priority score (129.6),Daily check,< 45 minutes
+19.09_72.9,19.09,72.9,High,52.31307961260539,Low,126.1565398063027,Standard patrol schedule adequate; High crime risk predicted,Risk level: High; High priority score (126.2),Daily check,< 45 minutes
+19.01_72.84,19.01,72.84,High,51.13874445967199,Low,125.56937222983599,Standard patrol schedule adequate; High crime risk predicted,Risk level: High; High priority score (125.6),Daily check,< 45 minutes
+19.05_72.82000000000001,19.05,72.82000000000001,Low,100.0,Low,80.0,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.11_72.88,19.11,72.88,Low,100.0,Low,80.0,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.09_72.91,19.09,72.91,Low,100.0,Low,80.0,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.09_72.83,19.09,72.83,Low,100.0,Low,80.0,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.080000000000002_72.87,19.080000000000002,72.87,Low,100.0,Low,80.0,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.05_72.9,19.05,72.9,Low,100.0,Low,80.0,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.05_72.87,19.05,72.87,Low,100.0,Low,80.0,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.07_72.89,19.07,72.89,Low,100.0,Low,80.0,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.11_72.83,19.11,72.83,Low,100.0,Low,80.0,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.04_72.9,19.04,72.9,Low,100.0,Low,80.0,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.12_72.84,19.12,72.84,Low,100.0,Low,80.0,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.04_72.84,19.04,72.84,Low,100.0,Low,80.0,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.14_72.86,19.14,72.86,Low,100.0,Low,80.0,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.14_72.84,19.14,72.84,Low,100.0,Low,80.0,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.14_72.87,19.14,72.87,Low,100.0,Low,80.0,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.0_72.83,19.0,72.83,Low,100.0,Low,80.0,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.11_72.89,19.11,72.89,Low,100.0,Low,80.0,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.09_72.89,19.09,72.89,Low,100.0,Low,80.0,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.06_72.88,19.06,72.88,Low,100.0,Low,80.0,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.14_72.93,19.14,72.93,Low,100.0,Low,80.0,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.07_72.9,19.07,72.9,Low,98.01006028077084,Low,79.00503014038543,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.11_72.93,19.11,72.93,Low,97.97848244620612,Low,78.98924122310305,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.05_72.95,19.05,72.95,Low,97.42005420054201,Low,78.710027100271,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.080000000000002_72.81,19.080000000000002,72.81,Low,96.96234843650288,Low,78.48117421825144,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.1_72.91,19.1,72.91,Low,96.96234843650286,Low,78.48117421825143,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.03_72.93,19.03,72.93,Low,96.82136894824708,Low,78.41068447412354,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.12_72.82000000000001,19.12,72.82000000000001,Low,96.66666666666667,Low,78.33333333333334,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.07_72.84,19.07,72.84,Low,96.66666666666667,Low,78.33333333333334,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.07_72.83,19.07,72.83,Low,96.66666666666667,Low,78.33333333333334,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.13_72.88,19.13,72.88,Low,96.66666666666667,Low,78.33333333333334,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.06_72.93,19.06,72.93,Low,96.66666666666667,Low,78.33333333333334,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.07_72.93,19.07,72.93,Low,96.66666666666667,Low,78.33333333333334,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.07_72.85000000000001,19.07,72.85000000000001,Low,96.66666666666667,Low,78.33333333333334,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.05_72.83,19.05,72.83,Low,96.66666666666667,Low,78.33333333333334,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.05_72.84,19.05,72.84,Low,96.66666666666667,Low,78.33333333333334,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.1_72.9,19.1,72.9,Low,96.66666666666667,Low,78.33333333333334,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.03_72.89,19.03,72.89,Low,96.66666666666667,Low,78.33333333333334,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.11_72.91,19.11,72.91,Low,96.66666666666667,Low,78.33333333333334,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.080000000000002_72.94,19.080000000000002,72.94,Low,93.92469687300574,Low,76.96234843650288,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.11_72.8,19.11,72.8,Low,93.62901510316955,Low,76.81450755158477,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.01_72.9,19.01,72.9,Low,93.33333333333333,Low,76.66666666666666,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.13_72.83,19.13,72.83,Low,93.33333333333333,Low,76.66666666666666,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.11_72.92,19.11,72.92,Low,93.33333333333333,Low,76.66666666666666,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.12_72.94,19.12,72.94,Low,93.33333333333333,Low,76.66666666666666,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.12_72.86,19.12,72.86,Low,93.33333333333333,Low,76.66666666666666,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.080000000000002_72.88,19.080000000000002,72.88,Low,93.33333333333333,Low,76.66666666666666,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.02_72.83,19.02,72.83,Low,93.33333333333333,Low,76.66666666666666,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.02_72.82000000000001,19.02,72.82000000000001,Low,92.90352675057694,Low,76.45176337528846,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.04_72.93,19.04,72.93,Low,91.04906930371155,Low,75.52453465185577,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.04_72.91,19.04,72.91,Low,90.93413978494624,Low,75.46706989247312,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.13_72.87,19.13,72.87,Low,90.5431809300508,Low,75.2715904650254,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.12_72.89,19.12,72.89,Low,90.29568176983621,Low,75.14784088491811,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.06_72.84,19.06,72.84,Low,90.2956817698362,Low,75.1478408849181,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.09_72.84,19.09,72.84,Low,90.15470228158041,Low,75.0773511407902,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.04_72.83,19.04,72.83,Low,88.30107070866596,Low,74.15053535433299,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.06_72.91,19.06,72.91,Low,88.01248625337092,Low,74.00624312668546,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.05_72.92,19.05,72.92,Low,88.01248625337092,Low,74.00624312668546,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.04_72.92,19.04,72.92,Low,87.8012111363899,Low,73.90060556819495,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.06_72.85000000000001,19.06,72.85000000000001,Low,87.60080645161291,Low,73.80040322580646,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.11_72.84,19.11,72.84,Low,87.42005420054201,Low,73.710027100271,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.05_72.94,19.05,72.94,Low,87.3645498782979,Low,73.68227493914895,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.01_72.89,19.01,72.89,Low,87.00174076727313,Low,73.50087038363657,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.03_72.82000000000001,19.03,72.82000000000001,Low,86.66666666666667,Low,73.33333333333334,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.03_72.84,19.03,72.84,Low,86.66666666666667,Low,73.33333333333334,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.06_72.92,19.06,72.92,Low,86.66666666666667,Low,73.33333333333334,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.06_72.81,19.06,72.81,Low,86.66666666666667,Low,73.33333333333334,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.01_72.93,19.01,72.93,Low,86.66666666666667,Low,73.33333333333334,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.1_72.94,19.1,72.94,Low,85.51649148242116,Low,72.75824574121057,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.03_72.85000000000001,19.03,72.85000000000001,Low,84.64186036364752,Low,72.32093018182377,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.05_72.91,19.05,72.91,Low,84.22037864284194,Low,72.11018932142096,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.05_72.85000000000001,19.05,72.85000000000001,Low,83.33333333333334,Low,71.66666666666667,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.09_72.85000000000001,19.09,72.85000000000001,Low,82.69223019606791,Low,71.34611509803395,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.01_72.87,19.01,72.87,Low,81.28282981055048,Low,70.64141490527524,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.1_72.92,19.1,72.92,Low,77.46930532332013,Low,68.73465266166006,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.080000000000002_72.86,19.080000000000002,72.86,Low,76.86979395002193,Low,68.43489697501096,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.11_72.85000000000001,19.11,72.85000000000001,Low,76.66666666666667,Low,68.33333333333334,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.04_72.86,19.04,72.86,Low,75.3677753487025,Low,67.68388767435124,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.1_72.81,19.1,72.81,Low,74.9801672574194,Low,67.4900836287097,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.1_72.85000000000001,19.1,72.85000000000001,Low,73.33333333333333,Low,66.66666666666666,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.13_72.89,19.13,72.89,Low,72.27320966763435,Low,66.13660483381717,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.1_72.83,19.1,72.83,Low,72.27320966763435,Low,66.13660483381717,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.14_72.85000000000001,19.14,72.85000000000001,Low,72.27320966763435,Low,66.13660483381717,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.1_72.86,19.1,72.86,Low,72.27320966763435,Low,66.13660483381717,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.12_72.88,19.12,72.88,Low,72.27320966763435,Low,66.13660483381717,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.12_72.83,19.12,72.83,Low,72.27320966763435,Low,66.13660483381717,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.150000000000002_72.92,19.150000000000002,72.92,Low,72.27320966763435,Low,66.13660483381717,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.080000000000002_72.85000000000001,19.080000000000002,72.85000000000001,Low,72.26577433073057,Low,66.13288716536528,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.14_72.9,19.14,72.9,Low,72.26577433073057,Low,66.13288716536528,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.14_72.94,19.14,72.94,Low,72.26577433073057,Low,66.13288716536528,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.07_72.94,19.07,72.94,Low,72.26577433073057,Low,66.13288716536528,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.13_72.82000000000001,19.13,72.82000000000001,Low,72.26577433073057,Medium,66.13288716536528,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.080000000000002_72.95,19.080000000000002,72.95,Low,72.26577433073057,Medium,66.13288716536528,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.05_72.88,19.05,72.88,Low,72.26577433073057,Medium,66.13288716536528,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.12_72.81,19.12,72.81,Low,72.26577433073057,Medium,66.13288716536528,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.01_72.91,19.01,72.91,Low,72.26577433073057,Medium,66.13288716536528,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.0_72.95,19.0,72.95,Low,72.26577433073057,Medium,66.13288716536528,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.07_72.92,19.07,72.92,Low,72.26577433073057,Low,66.13288716536528,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.1_72.88,19.1,72.88,Low,72.26577433073057,Low,66.13288716536528,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.07_72.91,19.07,72.91,Low,72.26577433073057,Low,66.13288716536528,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.03_72.86,19.03,72.86,Low,72.26577433073057,Low,66.13288716536528,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.13_72.91,19.13,72.91,Low,72.26577433073057,Low,66.13288716536528,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.01_72.95,19.01,72.95,Low,72.26577433073057,Low,66.13288716536528,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.03_72.81,19.03,72.81,Low,72.26577433073057,Low,66.13288716536528,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.1_72.93,19.1,72.93,Low,72.26577433073057,Low,66.13288716536528,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.06_72.94,19.06,72.94,Low,72.26577433073057,Low,66.13288716536528,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.05_72.89,19.05,72.89,Low,72.26577433073057,Low,66.13288716536528,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.09_72.88,19.09,72.88,Low,72.26577433073057,Low,66.13288716536528,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.09_72.82000000000001,19.09,72.82000000000001,Low,72.26577433073057,Low,66.13288716536528,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.02_72.81,19.02,72.81,Low,72.26577433073057,Low,66.13288716536528,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.12_72.91,19.12,72.91,Low,72.26577433073057,Low,66.13288716536528,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.03_72.92,19.03,72.92,Low,72.26577433073057,Medium,66.13288716536528,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.12_72.93,19.12,72.93,Low,72.26577433073057,Low,66.13288716536528,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.150000000000002_72.88,19.150000000000002,72.88,Low,72.26577433073057,Medium,66.13288716536528,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.080000000000002_72.9,19.080000000000002,72.9,Low,72.26577433073057,Medium,66.13288716536528,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.09_72.95,19.09,72.95,Low,72.26577433073057,Medium,66.13288716536528,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.02_72.9,19.02,72.9,Low,72.26577433073057,Low,66.13288716536528,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.14_72.81,19.14,72.81,Low,72.26577433073057,Low,66.13288716536528,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.02_72.88,19.02,72.88,Low,72.26577433073057,Low,66.13288716536528,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.05_72.81,19.05,72.81,Low,72.26577433073057,Low,66.13288716536528,Standard patrol schedule adequate,Standard risk assessment,Daily check,< 45 minutes
+19.02_72.93,19.02,72.93,Low,72.26577433073057,Medium,66.13288716536528,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.01_72.86,19.01,72.86,Low,72.26577433073057,Medium,66.13288716536528,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.02_72.86,19.02,72.86,Low,66.66666666666666,Medium,63.33333333333333,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.14_72.8,19.14,72.8,Low,63.891613168855564,Medium,61.945806584427785,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.0_72.88,19.0,72.88,Low,63.891613168855564,Medium,61.945806584427785,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.01_72.81,19.01,72.81,Low,63.891613168855564,Medium,61.945806584427785,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.150000000000002_72.94,19.150000000000002,72.94,Low,63.891613168855564,Medium,61.945806584427785,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.0_72.91,19.0,72.91,Low,63.891613168855564,Medium,61.945806584427785,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.07_72.8,19.07,72.8,Low,63.891613168855564,Medium,61.945806584427785,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.01_72.8,19.01,72.8,Low,63.891613168855564,Medium,61.945806584427785,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.0_72.94,19.0,72.94,Low,63.891613168855564,Medium,61.945806584427785,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.02_72.94,19.02,72.94,Low,63.891613168855564,Medium,61.945806584427785,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.12_72.87,19.12,72.87,Low,63.891613168855564,Medium,61.945806584427785,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.1_72.8,19.1,72.8,Low,63.891613168855564,Medium,61.945806584427785,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.13_72.81,19.13,72.81,Low,63.891613168855564,Medium,61.945806584427785,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.0_72.87,19.0,72.87,Low,63.891613168855564,Medium,61.945806584427785,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.150000000000002_72.86,19.150000000000002,72.86,Low,63.891613168855564,Medium,61.945806584427785,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.13_72.95,19.13,72.95,Low,63.891613168855564,Medium,61.945806584427785,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.0_72.92,19.0,72.92,Low,63.891613168855564,Medium,61.945806584427785,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.13_72.85000000000001,19.13,72.85000000000001,Low,63.891613168855564,Medium,61.945806584427785,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.1_72.95,19.1,72.95,Low,63.891613168855564,Medium,61.945806584427785,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.150000000000002_72.82000000000001,19.150000000000002,72.82000000000001,Low,63.891613168855564,Medium,61.945806584427785,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.0_72.81,19.0,72.81,Low,63.891613168855564,Medium,61.945806584427785,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.06_72.8,19.06,72.8,Low,63.891613168855564,Medium,61.945806584427785,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.0_72.82000000000001,19.0,72.82000000000001,Low,63.891613168855564,Medium,61.945806584427785,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.1_72.84,19.1,72.84,Low,63.33333333333333,Medium,61.666666666666664,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.13_72.93,19.13,72.93,Low,61.53944369493994,Medium,60.76972184746997,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.06_72.9,19.06,72.9,Low,60.492560560580266,Medium,60.24628028029014,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.11_72.82000000000001,19.11,72.82000000000001,Low,60.492560560580266,Medium,60.24628028029014,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.03_72.9,19.03,72.9,Low,60.492560560580266,Medium,60.24628028029014,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.09_72.86,19.09,72.86,Low,60.492560560580266,Medium,60.24628028029014,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.09_72.94,19.09,72.94,Low,60.492560560580266,Medium,60.24628028029014,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.12_72.9,19.12,72.9,Low,60.492560560580266,Medium,60.24628028029014,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.13_72.92,19.13,72.92,Low,60.492560560580266,Medium,60.24628028029014,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.03_72.95,19.03,72.95,Low,60.492560560580266,Medium,60.24628028029014,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.03_72.94,19.03,72.94,Low,60.492560560580266,Medium,60.24628028029014,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.12_72.85000000000001,19.12,72.85000000000001,Low,60.492560560580266,Medium,60.24628028029014,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.150000000000002_72.84,19.150000000000002,72.84,Low,60.492560560580266,Medium,60.24628028029014,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.150000000000002_72.9,19.150000000000002,72.9,Low,60.492560560580266,Medium,60.24628028029014,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.04_72.89,19.04,72.89,Low,60.492560560580266,Medium,60.24628028029014,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.12_72.95,19.12,72.95,Low,60.492560560580266,Medium,60.24628028029014,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.05_72.86,19.05,72.86,Low,60.492560560580266,Medium,60.24628028029014,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.14_72.82000000000001,19.14,72.82000000000001,Low,60.492560560580266,Medium,60.24628028029014,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.06_72.82000000000001,19.06,72.82000000000001,Low,60.492560560580266,Medium,60.24628028029014,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.14_72.89,19.14,72.89,Low,60.492560560580266,Medium,60.24628028029014,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.07_72.82000000000001,19.07,72.82000000000001,Low,60.492560560580266,Medium,60.24628028029014,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.080000000000002_72.83,19.080000000000002,72.83,Low,53.33752000136912,Medium,56.66876000068456,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.06_72.95,19.06,72.95,Low,53.33752000136912,Medium,56.66876000068456,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.04_72.82000000000001,19.04,72.82000000000001,Low,53.33752000136912,Medium,56.66876000068456,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.03_72.83,19.03,72.83,Low,53.33752000136912,Medium,56.66876000068456,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.11_72.9,19.11,72.9,Low,53.33752000136912,Medium,56.66876000068456,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.01_72.88,19.01,72.88,Low,53.33752000136912,Medium,56.66876000068456,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.02_72.91,19.02,72.91,Low,53.33752000136912,Medium,56.66876000068456,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.13_72.9,19.13,72.9,Low,53.33752000136912,Medium,56.66876000068456,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.02_72.95,19.02,72.95,Low,53.33752000136912,Medium,56.66876000068456,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.02_72.92,19.02,72.92,Low,53.33752000136912,Medium,56.66876000068456,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.02_72.89,19.02,72.89,Low,53.33752000136912,Medium,56.66876000068456,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.11_72.86,19.11,72.86,Low,53.33752000136912,Medium,56.66876000068456,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.05_72.93,19.05,72.93,Low,53.33752000136912,Medium,56.66876000068456,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.04_72.88,19.04,72.88,Low,53.33752000136912,Medium,56.66876000068456,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.03_72.88,19.03,72.88,Low,53.33752000136912,Medium,56.66876000068456,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.11_72.95,19.11,72.95,Low,52.09109230273381,High,56.045546151366906,Immediate patrol deployment recommended,Standard risk assessment,Every 2-3 hours,< 10 minutes
+19.09_72.93,19.09,72.93,Low,52.09109230273381,High,56.045546151366906,Immediate patrol deployment recommended,Standard risk assessment,Every 2-3 hours,< 10 minutes
+19.0_72.85000000000001,19.0,72.85000000000001,Low,52.09109230273381,High,56.045546151366906,Immediate patrol deployment recommended,Standard risk assessment,Every 2-3 hours,< 10 minutes
+19.04_72.81,19.04,72.81,Low,52.09109230273381,High,56.045546151366906,Immediate patrol deployment recommended,Standard risk assessment,Every 2-3 hours,< 10 minutes
+19.14_72.95,19.14,72.95,Low,52.09109230273381,High,56.045546151366906,Immediate patrol deployment recommended,Standard risk assessment,Every 2-3 hours,< 10 minutes
+19.11_72.94,19.11,72.94,Low,52.09109230273381,High,56.045546151366906,Immediate patrol deployment recommended,Standard risk assessment,Every 2-3 hours,< 10 minutes
+19.07_72.86,19.07,72.86,Low,52.09109230273381,High,56.045546151366906,Immediate patrol deployment recommended,Standard risk assessment,Every 2-3 hours,< 10 minutes
+19.0_72.84,19.0,72.84,Low,52.09109230273381,High,56.045546151366906,Immediate patrol deployment recommended,Standard risk assessment,Every 2-3 hours,< 10 minutes
+19.150000000000002_72.89,19.150000000000002,72.89,Low,52.09109230273381,High,56.045546151366906,Immediate patrol deployment recommended,Standard risk assessment,Every 2-3 hours,< 10 minutes
+19.03_72.8,19.03,72.8,Low,52.09109230273381,High,56.045546151366906,Immediate patrol deployment recommended,Standard risk assessment,Every 2-3 hours,< 10 minutes
+19.03_72.87,19.03,72.87,Low,52.09109230273381,High,56.045546151366906,Immediate patrol deployment recommended,Standard risk assessment,Every 2-3 hours,< 10 minutes
+19.150000000000002_72.93,19.150000000000002,72.93,Low,52.09109230273381,High,56.045546151366906,Immediate patrol deployment recommended,Standard risk assessment,Every 2-3 hours,< 10 minutes
+19.0_72.93,19.0,72.93,Low,52.09109230273381,High,56.045546151366906,Immediate patrol deployment recommended,Standard risk assessment,Every 2-3 hours,< 10 minutes
+19.02_72.84,19.02,72.84,Low,52.09109230273381,High,56.045546151366906,Immediate patrol deployment recommended,Standard risk assessment,Every 2-3 hours,< 10 minutes
+19.14_72.92,19.14,72.92,Low,52.09109230273381,High,56.045546151366906,Immediate patrol deployment recommended,Standard risk assessment,Every 2-3 hours,< 10 minutes
+19.14_72.83,19.14,72.83,Low,52.09109230273381,High,56.045546151366906,Immediate patrol deployment recommended,Standard risk assessment,Every 2-3 hours,< 10 minutes
+19.12_72.8,19.12,72.8,Low,52.09109230273381,High,56.045546151366906,Immediate patrol deployment recommended,Standard risk assessment,Every 2-3 hours,< 10 minutes
+19.150000000000002_72.83,19.150000000000002,72.83,Low,52.09109230273381,High,56.045546151366906,Immediate patrol deployment recommended,Standard risk assessment,Every 2-3 hours,< 10 minutes
+19.01_72.92,19.01,72.92,Low,52.09109230273381,High,56.045546151366906,Immediate patrol deployment recommended,Standard risk assessment,Every 2-3 hours,< 10 minutes
+19.04_72.8,19.04,72.8,Low,52.09109230273381,High,56.045546151366906,Immediate patrol deployment recommended,Standard risk assessment,Every 2-3 hours,< 10 minutes
+19.07_72.81,19.07,72.81,Low,52.09109230273381,High,56.045546151366906,Immediate patrol deployment recommended,Standard risk assessment,Every 2-3 hours,< 10 minutes
+19.04_72.94,19.04,72.94,Low,52.09109230273381,Medium,56.045546151366906,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.02_72.8,19.02,72.8,Low,52.09109230273381,Medium,56.045546151366906,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.1_72.87,19.1,72.87,Low,52.09109230273381,Medium,56.045546151366906,Regular patrol monitoring suggested,Standard risk assessment,Every 4-6 hours,< 20 minutes
+19.11_72.87,19.11,72.87,Low,52.09109230273381,High,56.045546151366906,Immediate patrol deployment recommended,Standard risk assessment,Every 2-3 hours,< 10 minutes
+19.0_72.9,19.0,72.9,Low,52.09109230273381,High,56.045546151366906,Immediate patrol deployment recommended,Standard risk assessment,Every 2-3 hours,< 10 minutes
+19.01_72.82000000000001,19.01,72.82000000000001,Low,52.09109230273381,High,56.045546151366906,Immediate patrol deployment recommended,Standard risk assessment,Every 2-3 hours,< 10 minutes
+19.06_72.89,19.06,72.89,Low,52.09109230273381,High,56.045546151366906,Immediate patrol deployment recommended,Standard risk assessment,Every 2-3 hours,< 10 minutes
+19.150000000000002_72.87,19.150000000000002,72.87,Low,52.09109230273381,High,56.045546151366906,Immediate patrol deployment recommended,Standard risk assessment,Every 2-3 hours,< 10 minutes
+19.02_72.85000000000001,19.02,72.85000000000001,Low,52.09109230273381,High,56.045546151366906,Immediate patrol deployment recommended,Standard risk assessment,Every 2-3 hours,< 10 minutes
+19.01_72.94,19.01,72.94,Low,50.69794416077891,High,55.34897208038946,Immediate patrol deployment recommended,Standard risk assessment,Every 2-3 hours,< 10 minutes
+19.13_72.84,19.13,72.84,Low,50.69794416077891,High,55.34897208038946,Immediate patrol deployment recommended,Standard risk assessment,Every 2-3 hours,< 10 minutes
+19.150000000000002_72.95,19.150000000000002,72.95,Low,50.69794416077891,High,55.34897208038946,Immediate patrol deployment recommended,Standard risk assessment,Every 2-3 hours,< 10 minutes
+19.14_72.91,19.14,72.91,Low,50.69794416077891,High,55.34897208038946,Immediate patrol deployment recommended,Standard risk assessment,Every 2-3 hours,< 10 minutes
+19.03_72.91,19.03,72.91,Low,50.69794416077891,High,55.34897208038946,Immediate patrol deployment recommended,Standard risk assessment,Every 2-3 hours,< 10 minutes
+19.0_72.89,19.0,72.89,Low,50.69794416077891,High,55.34897208038946,Immediate patrol deployment recommended,Standard risk assessment,Every 2-3 hours,< 10 minutes
+19.13_72.94,19.13,72.94,Low,50.69794416077891,High,55.34897208038946,Immediate patrol deployment recommended,Standard risk assessment,Every 2-3 hours,< 10 minutes
+19.1_72.89,19.1,72.89,Low,50.69794416077891,High,55.34897208038946,Immediate patrol deployment recommended,Standard risk assessment,Every 2-3 hours,< 10 minutes
+19.080000000000002_72.89,19.080000000000002,72.89,Low,50.69794416077891,High,55.34897208038946,Immediate patrol deployment recommended,Standard risk assessment,Every 2-3 hours,< 10 minutes
+19.09_72.81,19.09,72.81,Low,50.69794416077891,High,55.34897208038946,Immediate patrol deployment recommended,Standard risk assessment,Every 2-3 hours,< 10 minutes
+19.01_72.85000000000001,19.01,72.85000000000001,Low,50.69794416077891,High,55.34897208038946,Immediate patrol deployment recommended,Standard risk assessment,Every 2-3 hours,< 10 minutes
+19.11_72.81,19.11,72.81,Low,50.69794416077891,High,55.34897208038946,Immediate patrol deployment recommended,Standard risk assessment,Every 2-3 hours,< 10 minutes
+19.080000000000002_72.93,19.080000000000002,72.93,Low,50.69794416077891,High,55.34897208038946,Immediate patrol deployment recommended,Standard risk assessment,Every 2-3 hours,< 10 minutes
+19.07_72.87,19.07,72.87,Low,50.69794416077891,High,55.34897208038946,Immediate patrol deployment recommended,Standard risk assessment,Every 2-3 hours,< 10 minutes
+19.080000000000002_72.91,19.080000000000002,72.91,Low,50.69794416077891,High,55.34897208038946,Immediate patrol deployment recommended,Standard risk assessment,Every 2-3 hours,< 10 minutes
+19.04_72.95,19.04,72.95,Low,50.69794416077891,High,55.34897208038946,Immediate patrol deployment recommended,Standard risk assessment,Every 2-3 hours,< 10 minutes
+19.150000000000002_72.81,19.150000000000002,72.81,Low,50.69794416077891,High,55.34897208038946,Immediate patrol deployment recommended,Standard risk assessment,Every 2-3 hours,< 10 minutes
+19.09_72.87,19.09,72.87,Low,50.69794416077891,High,55.34897208038946,Immediate patrol deployment recommended,Standard risk assessment,Every 2-3 hours,< 10 minutes
+19.12_72.92,19.12,72.92,Low,50.69794416077891,High,55.34897208038946,Immediate patrol deployment recommended,Standard risk assessment,Every 2-3 hours,< 10 minutes
+19.14_72.88,19.14,72.88,Low,50.69794416077891,High,55.34897208038946,Immediate patrol deployment recommended,Standard risk assessment,Every 2-3 hours,< 10 minutes
+19.07_72.88,19.07,72.88,Low,50.69794416077891,High,55.34897208038946,Immediate patrol deployment recommended,Standard risk assessment,Every 2-3 hours,< 10 minutes
+19.080000000000002_72.82000000000001,19.080000000000002,72.82000000000001,Low,50.69794416077891,High,55.34897208038946,Immediate patrol deployment recommended,Standard risk assessment,Every 2-3 hours,< 10 minutes
