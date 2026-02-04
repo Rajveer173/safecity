@@ -175,7 +175,7 @@ Scalability:          Linear scaling to unlimited cities
 
 ---
 
-## ⚖️ **Ethical AI Leadership**
+##  **Ethical AI Leadership**
 
 ### **Responsible Innovation**
 -  **Zone-level Predictions**: No individual targeting or profiling
