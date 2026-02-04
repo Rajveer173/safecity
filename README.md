@@ -4,12 +4,12 @@
 
 <div align="center">
 
-![SafeCity Banner](https://img.shields.io/badge/🏆_CHAMPIONSHIP_WINNER-SafeCity_AI-gold?style=for-the-badge&labelColor=000000)
+![SafeCity Banner](https://img.shields.io/badge/_CHAMPIONSHIP_WINNER-SafeCity_AI-gold?style=for-the-badge&labelColor=000000)
 
-[![Demo Status](https://img.shields.io/badge/🚀_Live_Demo-READY-brightgreen?style=flat-square)](http://localhost:8503)
-[![Accuracy](https://img.shields.io/badge/🎯_Prediction_Accuracy-85%25-blue?style=flat-square)](#performance)
-[![ROI](https://img.shields.io/badge/💰_ROI-400%25-success?style=flat-square)](#business-impact)
-[![Deployment](https://img.shields.io/badge/⚡_Deployment-48_Hours-orange?style=flat-square)](#quick-start)
+[![Demo Status](https://img.shields.io/badge/Live_Demo-READY-brightgreen?style=flat-square)](http://localhost:8503)
+[![Accuracy](https://img.shields.io/badge/_Prediction_Accuracy-85%25-blue?style=flat-square)](#performance)
+[![ROI](https://img.shields.io/badge/_ROI-400%25-success?style=flat-square)](#business-impact)
+[![Deployment](https://img.shields.io/badge/_Deployment-48_Hours-orange?style=flat-square)](#quick-start)
 
 </div>
 
@@ -29,7 +29,7 @@ SafeCity AI revolutionizes public safety through cutting-edge machine learning, 
 
 ### **Core Machine Learning Pipeline**
 ```
-📊 Real-time Data →  DBSCAN Clustering →  Random Forest Prediction →  Patrol Optimization
+ Real-time Data →  DBSCAN Clustering →  Random Forest Prediction →  Patrol Optimization
 ```
 
 | Component | Technology | Performance |
@@ -112,14 +112,7 @@ streamlit run dashboard/app.py --server.port 8503
 
 
 
-| Feature | SafeCity AI | Competitor A | Competitor B | Traditional |
-|---------|-------------|--------------|--------------|-------------|
-| **Real-time Processing** | ✅ Live | ❌ Batch Only | ⚠️ Near Real-time | ❌ Manual |
-| **Predictive Analytics** | ✅ 85% Accuracy | ⚠️ 65% | ⚠️ 70% | ❌ Reactive |
-| **No-code Interface** | ✅ Drag & Drop | ❌ Technical Training | ⚠️ Some Training | ❌ Complex |
-| **Continuous Learning** | ✅ Auto-improve | ❌ Manual Updates | ⚠️ Quarterly | ❌ Static |
-| **Deployment** | ✅ 48 Hours | ⚠️ 2-4 Weeks | ⚠️ 1-2 Weeks | ❌ Months |
-| **Cost** | ✅ Cloud SaaS | ❌ Expensive | ⚠️ Moderate | ❌ Very High |
+
 
 ---
 
